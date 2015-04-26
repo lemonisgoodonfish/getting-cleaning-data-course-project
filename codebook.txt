@@ -1,0 +1,13 @@
+The data set produced by running will produce a data frame with the following columns:
+
+"subject" : subject id,number of the person who was wearing the device
+"activity" : activity that the subkect was classified as doing
+"body_acc_x_mean" : the mean of their mean body acceleration in the x axis
+"body_acc_y_mean"  : the mean of their mean body acceleration in the y axis
+"body_acc_z_mean"  : the mean of their mean body acceleration in the z axis
+"body_gyro_x_mean"  : the mean of their mean body gyro rotation in the x axis
+"body_gyro_y_mean"  : the mean of their mean body gyro rotation in the y axis
+"body_gyro_z_mean"  : the mean of their mean body gyro rotation in the z axis
+"total_acc_x_mean"  : the mean of their mean total acceleration in the x axis
+"total_acc_y_mean"  : the mean of their mean total acceleration in the y axis
+"total_acc_z_mean" : the mean of their mean total acceleration in the z axis
